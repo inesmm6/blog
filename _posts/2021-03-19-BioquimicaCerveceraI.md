@@ -29,7 +29,11 @@ IMAGEN ENZIMA
 
 Pero no es suficiente con que las enzimas estén presentes, también hay que activarlas. Esto se consigue en el siguiente paso, la **maceración**. Las enzimas son, para que nos entendamos, unas moléculas un poco pijas. En esencia son proteínas que favorecen que se produzcan determinadas reacciones bioquímicas, pero sólo lo van a hacer cuando se encuentren en unas condiciones específicas de temperatura, pH, ambiente químico, etc. En este ejemplo nos vamos a referir a condiciones de temperatura. Durante la maceración el cereal malteado se “cocina” en agua a una temperatura que permita que las enzimas se activen y rompan el almidón en azúcares sencillos. Esta temperatura generalmente se encuentra entre los 60-70ºC, pero la temperatura concreta y los tiempos de maceración (se puede incluso hacer varios intervalos a distintas temperaturas) serán los que den a cada cerveza sus matices concretos.
 
-IMAGEN MACERACION
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Maceracion.jpg"/>
+	<figcaption> Humilde intento de elaborar cerveza casera. Aquí podéis ver la maceración del cereal malteado para obtener azúcares fermentables. 
+</figcaption>
+</figure>
 
 Llegados a este punto ya podemos decir que tenemos un mosto de cerveza. Todavía no es alcohólico ni espumoso, pero el aspecto empieza a parecerse a una cerveza. Sin embargo hay otra cosa que lo hace todavía muy distinto a cualquier cerveza que pidamos en un bar: el amargor. Una vez se separa el mosto de los restos de cereales, éste se hierve con lúpulos, que son los que dan el aroma y sabor amargo a la cerveza. Además, otra consecuencia muy importante de hervir el mosto, sobre todo cuando se empezaba a hacer cerveza, es que las altas temperaturas de este paso se encargan de aniquilar a los microorganismos que pudiesen estar presentes en el cereal, y que por tanto habrán sido transferido a nuestro mosto. 
 
@@ -64,8 +68,8 @@ IMAGEN CERVE
 
 ---
 **Para saber más**
-* Como en muchas otras ocasiones os recomendamos las infografías de [compound interest](http://www.compoundchem.com/2014/07/10/beerchemicals/), en este caso la que habla sobre el sabor y la química de la cerveza. {:target="_blank"}. (En inglés).   
-* Si os ha sabido a poco el post de hoy y queréis enfrentaros a la bioquímica para expertos, podéis echarle un vistazo al [póster interactivo creado por la farmacéutica Roche](http://biochemical-pathways.com/#/map/1) sobre las rutas bioquímicas que ocurren en una célula. ¡Una maravilla! {:target="_blank"}. (En inglés).
+* Como en muchas otras ocasiones os recomendamos las infografías de [compound interest](http://www.compoundchem.com/2014/07/10/beerchemicals/){:target="_blank"}, en este caso la que habla sobre el sabor y la química de la cerveza. (En inglés).   
+* Si os ha sabido a poco el post de hoy y queréis enfrentaros a la bioquímica para expertos, podéis echarle un vistazo al [póster interactivo creado por la farmacéutica Roche](http://biochemical-pathways.com/#/map/1){:target="_blank"} sobre las rutas bioquímicas que ocurren en una célula. ¡Una maravilla! (En inglés).
 
 ---
 
