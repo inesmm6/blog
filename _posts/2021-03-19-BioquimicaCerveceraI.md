@@ -25,7 +25,7 @@ Seguro que muchos ya sabéis que el principal ingrediente de la cerveza es el ce
 
 Pero hemos dicho que esto iba de bioquímica y, ¿qué bioquímica puede haber en cocer cereales? ¡Mucha! De hecho una cosa importante es que los cereales con los que se hace la cerveza están **malteados**. Las semillas como los cereales contienen gran cantidad de azúcares almacenados en forma de moléculas complejas como el almidón, que servirán para alimentar a la planta cuando germine. Cuando la semilla germina se liberan enzimas que rompen este almidón en azúcares más sencillos y más fácilmente utilizables. Y es justo eso lo que se necesita cuando se elabora cerveza. El malteado consiste en hacer que el cereal empiece a germinar, y así conseguir que se liberen las enzimas que se necesitan en los siguientes pasos. Esto generalmente se hace poniendo el cereal en agua, y secandolo de nuevo una vez ha empezado a germinar para detener el proceso. Si además se quiere hacer una cerveza tostada o negra será necesario llevar a cabo pasos extras de tostado del cereal malteado, pero lo fundamental en todos los casos es la liberación de enzimas.
 
-IMAGEN ENZIMA
+![Figura enzimas]({{ "/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Enzimas.JPG" | relative_url }}){: .align-center}
 
 Pero no es suficiente con que las enzimas estén presentes, también hay que activarlas. Esto se consigue en el siguiente paso, la **maceración**. Las enzimas son, para que nos entendamos, unas moléculas un poco pijas. En esencia son proteínas que favorecen que se produzcan determinadas reacciones bioquímicas, pero sólo lo van a hacer cuando se encuentren en unas condiciones específicas de temperatura, pH, ambiente químico, etc. En este ejemplo nos vamos a referir a condiciones de temperatura. Durante la maceración el cereal malteado se “cocina” en agua a una temperatura que permita que las enzimas se activen y rompan el almidón en azúcares sencillos. Esta temperatura generalmente se encuentra entre los 60-70ºC, pero la temperatura concreta y los tiempos de maceración (se puede incluso hacer varios intervalos a distintas temperaturas) serán los que den a cada cerveza sus matices concretos.
 
@@ -53,10 +53,7 @@ Os dejamos un esquema del proceso de fermentación, sólo para que os hagáis un
 
 *Et voila!* Ya sabéis, en términos muy generales, cómo se elabora la cerveza. ¿Alguna vez la bioquímica os había parecido algo tan interesante? Y, por supuesto, no podemos olvidarnos de las muchísimas reacciones que tienen lugar una vez que la cerveza ya está dentro de nosotros. Pero como a partir de ahí la cosa se complica y no queremos que esto se alargue, vamos a dejar esa explicación para otro día. De momento vamos a disfrutar de esa bioquímica cervecera mientras aún está en el vaso. ¡Cheers! 
 
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg"/>
-</figure>
-
+![Figura cerve]({{ "/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg" | relative_url }}){: .align-center}
 
 &nbsp;  
 &nbsp;
