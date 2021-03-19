@@ -1,9 +1,9 @@
 ---
 title: "Bioquímica cervecera I: La química de los maestros cerveceros"
 header:
-  image: /assets/images/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg
+  image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-12-18-RosalindFranklin/header.png
+  og_image: /assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg
 categories:
   - Lo cotidiano es ciencia
 comments: true
@@ -54,7 +54,7 @@ Os dejamos un esquema del proceso de fermentación, sólo para que os hagáis un
 *Et voila!* Ya sabéis, en términos muy generales, cómo se elabora la cerveza. ¿Alguna vez la bioquímica os había parecido algo tan interesante? Y, por supuesto, no podemos olvidarnos de las muchísimas reacciones que tienen lugar una vez que la cerveza ya está dentro de nosotros. Pero como a partir de ahí la cosa se complica y no queremos que esto se alargue, vamos a dejar esa explicación para otro día. De momento vamos a disfrutar de esa bioquímica cervecera mientras aún está en el vaso. ¡Cheers! 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg"/
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg"/>
 </figure>
 
 
