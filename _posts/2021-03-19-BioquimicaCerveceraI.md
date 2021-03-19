@@ -1,7 +1,7 @@
 ---
 title: "Bioquímica cervecera I: La química de los maestros cerveceros"
 header:
-  image: /assets/images/CientificasErbias_reducida.jpg
+  image: /assets/images/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/posts/2020-12-18-RosalindFranklin/header.png
 categories:
@@ -45,11 +45,18 @@ La fermentación no es una única reacción, sino un conjunto de ellas que reali
 
 Os dejamos un esquema del proceso de fermentación, sólo para que os hagáis una idea de lo complejo que puede ser un proceso tan aparentemente simple como transformar glucosa en etanol.
 
-IMAGEN FERMENTACION
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Fermentacion.jpg"/>
+	<figcaption> Esquema de fermentación alcohólica. En azul aparecen indicdos los nombres de las moléculas que se van formando y desapareciendo en las reacciones que se producen durante la fermentación. Cada una de esas reacciones está catalizada por enzimas, indicadas en rojo. En naranja, las moléculas de ATP indican el balance energético.
+</figcaption>
+</figure>
 
 *Et voila!* Ya sabéis, en términos muy generales, cómo se elabora la cerveza. ¿Alguna vez la bioquímica os había parecido algo tan interesante? Y, por supuesto, no podemos olvidarnos de las muchísimas reacciones que tienen lugar una vez que la cerveza ya está dentro de nosotros. Pero como a partir de ahí la cosa se complica y no queremos que esto se alargue, vamos a dejar esa explicación para otro día. De momento vamos a disfrutar de esa bioquímica cervecera mientras aún está en el vaso. ¡Cheers! 
 
-IMAGEN CERVE
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg"/
+</figure>
+
 
 &nbsp;  
 &nbsp;
